@@ -32,4 +32,4 @@ jobs:
           solution-path: AutomationScript.sln
           artifact-name: EmpowerHelloWorld_TS_1
           version: 1.0.1
-          build-number: ${{ github.run_number }
+          build-number: ${{ github.run_number }}
