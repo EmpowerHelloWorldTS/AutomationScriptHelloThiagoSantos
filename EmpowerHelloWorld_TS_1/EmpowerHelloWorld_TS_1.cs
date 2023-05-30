@@ -69,6 +69,7 @@ namespace EmpowerHelloWorld_TS_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("Hello World");
+			//Cambio teste
 		}
 	}
 }
