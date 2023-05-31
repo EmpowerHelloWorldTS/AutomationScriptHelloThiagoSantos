@@ -70,7 +70,7 @@ namespace EmpowerHelloWorld_TS_1
 		{
 			engine.GenerateInformation("Hello World Web");
 
-			// Cambio teste
+			// Cambio teste web 2
 		}
 	}
 }
